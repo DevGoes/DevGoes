@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas Góes, Desenvolvedor Full-Stack 🚀
+# Olá, me chamo Lucas Góes, Desenvolvedor Full-Stack 🚀
 
 Sou formado em Ciência da Computação, sou entusiasta de tecnologia e inovação. Com uma base acadêmica sólida e ampla experiência prática no desenvolvimento web, já atuei com diversas ferramentas e tecnologias para criar soluções escaláveis e de alto desempenho. Tenho paixão por codificar, explorar novas tecnologias e desenvolver projetos que fazem a diferença! 💻
 
@@ -7,10 +7,11 @@ Sou formado em Ciência da Computação, sou entusiasta de tecnologia e inovaç�
 ## 🛠️ Minha Stack Atual
 
 - 🎨 **Frontend**: Vue.js, HTML, CSS e Bootstrap  
-- 🔧 **Backend**: Laravel e Python  
+- 🔧 **Backend**: Laravel, Python e PHP  
 - 🛢️ **Banco de Dados**: MySQL  
 - 🖌️ **Design de Layout**: Figma  
 - 🗂️ **Controle de Versão**: Git e Github  
+- ☁️ **Cloud & DevOps**: AWS 
 
 ---
 
@@ -21,10 +22,16 @@ Sou formado em Ciência da Computação, sou entusiasta de tecnologia e inovaç�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </div>
+
 
 ---
 
