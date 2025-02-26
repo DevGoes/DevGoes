@@ -1,6 +1,6 @@
 # Olá, me chamo Lucas Góes, Desenvolvedor Full-Stack 🚀
 
-Sou formado em Ciência da Computação, sou entusiasta de tecnologia e inovação. Com uma base acadêmica sólida e ampla experiência prática no desenvolvimento web, já atuei com diversas ferramentas e tecnologias para criar soluções escaláveis e de alto desempenho. Tenho paixão por codificar, explorar novas tecnologias e desenvolver projetos que fazem a diferença! 💻
+Sou Desenvolvedor Full Stack há 1 ano, graduado em Ciência da Computação pelo UNIVEM. Minha trajetória começou no back-end, onde me especializei no desenvolvimento com PHP, Laravel e MySQL. Com o tempo, busquei expandir meus conhecimentos para o front-end, aprofundando-me em Vue.js para atuar de forma completa no desenvolvimento de aplicações web escaláveis e eficientes. Atualmente, estou me aprofundando em Análise de Dados, utilizando Python, SQL e técnicas de ETL para extração e modelagem de dados.💻
 
 ---
 
