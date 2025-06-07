@@ -74,6 +74,8 @@
 
 ###
 
-<h4 align="center">visit my website https://goesdev.com.br</h4>
+<h4 align="center">
+  <a href="https://goesdev.com.br" target="_blank">visit my website</a>
+</h4>
 
 ###
