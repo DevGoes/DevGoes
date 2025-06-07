@@ -1,41 +1,67 @@
-# Olá, me chamo Lucas Góes, Desenvolvedor Full-Stack 🚀
+<h1 align="right">HI, MY NAME IS LUCAS GÓES</h1>
 
-Sou Desenvolvedor Full Stack há 1 ano, graduado em Ciência da Computação pelo UNIVEM. Minha trajetória começou no back-end, onde me especializei no desenvolvimento com PHP, Laravel e MySQL. Com o tempo, busquei expandir meus conhecimentos para o front-end, aprofundando-me em Vue.js para atuar de forma completa no desenvolvimento de aplicações web escaláveis e eficientes. Atualmente, estou me aprofundando em Análise de Dados, utilizando Python, SQL e técnicas de ETL para extração e modelagem de dados.💻
+###
 
----
+<h4 align="left">ABOUT ME</h4>
 
-## 🛠️ Minha Stack Atual
+###
 
-- 🎨 **Frontend**: Vue.js, HTML, CSS e Bootstrap  
-- 🔧 **Backend**: Laravel, Python e PHP  
-- 🛢️ **Banco de Dados**: MySQL  
-- 🖌️ **Design de Layout**: Figma  
-- 🗂️ **Controle de Versão**: Git e Github  
-- ☁️ **Cloud & DevOps**: AWS 
+<h5 align="left">I'm Lucas, better known as Góes. I am a Full Stack Developer with a successful career that began in back-end development, where I specialized in PHP, Laravel, and MySQL. Later, I expanded my skills to front-end development with Vue.js, allowing me to create complete web solutions optimized for performance and scalability.<br><br>I am truly committed to technical excellence, constantly keeping up with industry innovations and improving my abilities. I am available to contribute to new projects, offering strategic and efficient solutions to meet the needs of clients and users.</h5>
 
----
+###
 
-## 🚀 Tecnologias
+<h4 align="left">SKILLS</h4>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
-## 🌐 Meu Site Profissional
+###
 
-Acesse meu portfólio e conheça mais sobre meu trabalho:  
-[**goesdev.com.br**](https://goesdev.com.br)
+<h4 align="left">SOCIAL</h4>
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/goesdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_lucas_goes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@devgoes/videos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">visit my website https://goesdev.com.br</h4>
+
+###
