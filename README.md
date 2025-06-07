@@ -1,16 +1,16 @@
-<h1 align="right">HI, MY NAME IS LUCAS GÓES</h1>
+<h1 align="center">HI, MY NAME IS LUCAS GÓES</h1>
 
 ###
 
-<h4 align="left">ABOUT ME</h4>
+<h4 align="center">ABOUT ME</h4>
 
 ###
 
-<h5 align="left">I'm Lucas, better known as Góes. I am a Full Stack Developer with a successful career that began in back-end development, where I specialized in PHP, Laravel, and MySQL. Later, I expanded my skills to front-end development with Vue.js, allowing me to create complete web solutions optimized for performance and scalability.<br><br>I am truly committed to technical excellence, constantly keeping up with industry innovations and improving my abilities. I am available to contribute to new projects, offering strategic and efficient solutions to meet the needs of clients and users.</h5>
+<p align="center">I'm Lucas, better known as Góes. I am a Full Stack Developer with a successful career that began in back-end development, where I specialized in PHP, Laravel, and MySQL. Later, I expanded my skills to front-end development with Vue.js, allowing me to create complete web solutions optimized for performance and scalability.<br><br>I am truly committed to technical excellence, constantly keeping up with industry innovations and improving my abilities. I am available to contribute to new projects, offering strategic and efficient solutions to meet the needs of clients and users.</p>
 
 ###
 
-<h4 align="left">SKILLS</h4>
+<h4 align="center">SKILLS</h4>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">SOCIAL</h4>
+<h4 align="center">SOCIAL</h4>
 
 ###
 
@@ -62,6 +62,6 @@
 
 ###
 
-<h4 align="left">visit my website https://goesdev.com.br</h4>
+<h4 align="center">visit my website https://goesdev.com.br</h4>
 
 ###
