@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">I'm Lucas, better known as Góes. I am a Full Stack Developer with a successful career that began in back-end development, where I specialized in PHP, Laravel, and MySQL. Later, I expanded my skills to front-end development with Vue.js, allowing me to create complete web solutions optimized for performance and scalability.<br><br>I am truly committed to technical excellence, constantly keeping up with industry innovations and improving my abilities. I am available to contribute to new projects, offering strategic and efficient solutions to meet the needs of clients and users.</p>
+<p align="center">Full Stack Developer with experience in building complete web applications, from back-end to front-end. I work with PHP, Laravel, MySQL, and Vue.js, delivering modern, efficient, and well-structured solutions.</p>
 
 ###
 
