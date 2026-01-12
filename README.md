@@ -70,6 +70,6 @@
 
 ###
 
-<h4 align="center">visit my website https://goesdev.com.br</h4>
+<h4 align="center">visit my website https://lucasgoes.com</h4>
 
 ###
