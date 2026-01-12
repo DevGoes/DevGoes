@@ -70,6 +70,6 @@
 
 ###
 
-<h4 align="center">visit my website https://lucasgoes.com</h4>
+<a href="https://lucasgoes.com" target="_blank">visit my website</a>
 
 ###
